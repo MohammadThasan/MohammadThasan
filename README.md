@@ -23,23 +23,23 @@
 
 ---
 
-## 🌈 Hi there it's bout Me 👋
+## Hi there it's bout Me 👋
 
 Hi! I build **end-to-end data products**—from ingestion and modeling to dashboards and AI-powered insights.  
 My goal is simple: **turn messy data into trusted intelligence** that teams can act on. 🚀
 
-- 🧠 **Analytics-first mindset** with strong engineering practices  
-- 🧱 Designing **scalable Lakehouse / Warehouse** solutions  
-- 📊 Delivering **BI experiences** that are fast, governed, and delightful  
-- 🤖 Exploring **AI/ML** to augment decision-making and automation
+- **Analytics-first mindset** with strong engineering practices  
+- Designing **scalable Lakehouse / Warehouse** solutions  
+- Delivering **BI experiences** that are fast, governed, and delightful  
+- Exploring **AI/ML** to augment decision-making and automation
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- I’m currently working on ...
+- I’m currently learning ...
+- I’m looking to collaborate on ...
+- I’m looking for help with ...
 
-## 🧰 What I Do (Core Topics)
+## What I Do (Core Topics)
 
 <table>
   <tr>
