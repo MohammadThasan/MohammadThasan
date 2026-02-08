@@ -23,7 +23,7 @@
 
 ---
 
-## Hi there it's bout Me 👋
+## Hi there it's bout Me
 
 Hi! I build **end-to-end data products**—from ingestion and modeling to dashboards and AI-powered insights.  
 My goal is simple: **turn messy data into trusted intelligence** that teams can act on. 🚀
@@ -40,35 +40,35 @@ My goal is simple: **turn messy data into trusted intelligence** that teams can 
     <td width="50%">
       <h3>📊 Data Analytics & BI</h3>
       <ul>
-        <li>Semantic models, KPI design, and metric governance ✅</li>
-        <li>Dashboarding, storytelling, and stakeholder-ready reporting 🎯</li>
-        <li>Performance tuning and usability-focused BI 🚦</li>
+        <li>Semantic models, KPI design, and metric governance </li>
+        <li>Dashboarding, storytelling, and stakeholder-ready reporting </li>
+        <li>Performance tuning and usability-focused BI </li>
       </ul>
     </td>
     <td width="50%">
       <h3>⚙️ Data Engineering</h3>
       <ul>
-        <li>Batch/stream pipelines and orchestration 🔁</li>
-        <li>Lakehouse / Warehouse modeling (Bronze → Silver → Gold) 🥉🥈🥇</li>
-        <li>Data quality, lineage, and reliability 🛡️</li>
+        <li>Batch/stream pipelines and orchestration </li>
+        <li>Lakehouse / Warehouse modeling (Bronze → Silver → Gold) </li>
+        <li>Data quality, lineage, and reliability </li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 AI & Intelligent Analytics</h3>
+      <h3> AI & Intelligent Analytics</h3>
       <ul>
-        <li>Feature-ready datasets for ML + analytics 🧬</li>
-        <li>Automation, anomaly detection, and forecasting 📈</li>
-        <li>LLM-enabled insights and productivity tooling ✨</li>
+        <li>Feature-ready datasets for ML + analytics </li>
+        <li>Automation, anomaly detection, and forecasting </li>
+        <li>LLM-enabled insights and productivity tooling </li>
       </ul>
     </td>
     <td width="50%">
       <h3>🏗️ Solution Design</h3>
       <ul>
-        <li>Reusable patterns, templates, and scalable architectures 🧩</li>
-        <li>Security, access control, and governance 🔐</li>
-        <li>Cost-aware design and performance optimization 💸</li>
+        <li>Reusable patterns, templates, and scalable architectures </li>
+        <li>Security, access control, and governance </li>
+        <li>Cost-aware design and performance optimization </li>
       </ul>
     </td>
   </tr>
@@ -78,10 +78,10 @@ My goal is simple: **turn messy data into trusted intelligence** that teams can 
 
 ## 🔥 Highlights
 
-- 🥉🥈🥇 **Medallion Architecture** pipelines for trusted analytics layers  
-- 🧾 Robust **data modeling** for consistent metrics and reporting  
-- ⚡ Faster dashboards through **model + query optimization**  
-- 🧪 Quality checks + monitoring to keep data reliable over time
+-  **Medallion Architecture** pipelines for trusted analytics layers  
+-  Robust **data modeling** for consistent metrics and reporting  
+-  Faster dashboards through **model + query optimization**  
+-  Quality checks + monitoring to keep data reliable over time
 
 ---
 
@@ -89,9 +89,9 @@ My goal is simple: **turn messy data into trusted intelligence** that teams can 
 
 > Pin your best repos here (projects, templates, demos, case studies).
 
-- 🌟 **Project 1** — *End-to-end BI solution (ETL → Model → Dashboard)*  
-- 🌟 **Project 2** — *Lakehouse pipeline (Bronze/Silver/Gold) with governance*  
-- 🌟 **Project 3** — *AI-assisted analytics (forecasting / anomaly detection / insights)*  
+-  **Project 1** — *End-to-end BI solution (ETL → Model → Dashboard)*  
+-  **Project 2** — *Lakehouse pipeline (Bronze/Silver/Gold) with governance*  
+-  **Project 3** — *AI-assisted analytics (forecasting / anomaly detection / insights)*  
 
 ---
 
@@ -108,9 +108,9 @@ My goal is simple: **turn messy data into trusted intelligence** that teams can 
 
 ## 🎯 What I’m Working On
 
-- 🧱 Building scalable data layers (Bronze → Silver → Gold)  
-- 📊 Creating reusable BI templates + governed metric definitions  
-- 🤖 Applying AI to improve detection, prediction, and decision support
+-  Building scalable data layers (Bronze → Silver → Gold)  
+-  Creating reusable BI templates + governed metric definitions  
+-  Applying AI to improve detection, prediction, and decision support
 
 ---
 
